@@ -1,6 +1,5 @@
 module Memorable
   
-  extend 
   
   def reset_all
     all.clear
